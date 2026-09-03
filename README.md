@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- One-time name reveal animation: plays on every page load, then holds static -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=100000000&color=F778BA&center=true&vCenter=true&repeat=false&width=600&height=60&lines=ASHFAQ+ZAHOOR+KACHROO" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=100000000&color=F778BA&center=true&vCenter=true&repeat=false&width=600&height=60&lines=ASHFAQ+ZAHO[...]
 
 <!-- Looping tagline typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Backend-focused+Full-Stack+Engineer;Building+Systems+that+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Backend-focused+F[...]
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 ## About me
 
-I'm a final-year Computer Science Engineering student who enjoys understanding what actually happens behind an application — how requests move through a system, how data is modeled, how permissions are managed, and where failures hide.
+I'm a final-year Computer Science Engineering student who enjoys understanding what actually happens behind an application — how requests move through a system, how data is modeled, how permissions [...]
 
-My strongest direction is **backend engineering**. I build full-stack projects when the interface helps demonstrate the system, but I care most about APIs, authentication, databases, real-time communication, and handling failure gracefully.
+My strongest direction is **backend engineering**. I build full-stack projects when the interface helps demonstrate the system, but I care most about APIs, authentication, databases, real-time communi[...]
 
-Alongside that, I'm building a **security-aware way of thinking** — networking, web security, authentication, logging, and introductory SOC concepts. Not presenting myself as a security professional, but learning alongside engineers who care about it.
+Alongside that, I'm building a **security-aware way of thinking** — networking, web security, authentication, logging, and introductory SOC concepts. Not presenting myself as a security professional[...]
 
 <br/>
 
@@ -66,7 +66,7 @@ Alongside that, I'm building a **security-aware way of thinking** — networking
 
 
 <div align="center">
-<p align="center"> <strong color="pink">Currently Learning</strong></p>
+<p align="center"> <strong style="color:#F778BA">Currently Learning</strong></p>
 <marquee behavior="scroll" direction="right" scrollamount="4">
 <img src="https://skillicons.dev/icons?i=opencv,py,aws,gcp&theme=dark" height="55"/>
 </marquee>
@@ -101,7 +101,7 @@ Workspace-scoped RBAC, rotating refresh tokens with reuse detection, optimistic 
 <td width="33%" valign="top">
 
 ### 🌍 EcoTwin
-**Environmental digital twin for Indian cities**
+**Environmental digital twin for Indian cities**n
 
 `Python` `FastAPI` `PostGIS` `scikit-learn`
 
@@ -143,7 +143,7 @@ Parallel provider adapters with graceful degradation, token-based product simila
 
 > CS foundations → web fundamentals → full-stack development → backend & database engineering → scalable systems → observability and security
 
-- **Backend & full-stack:** JavaScript/TypeScript, Node.js, Express, REST design, MongoDB, PostgreSQL, authentication & RBAC, WebSockets, Redis, Kafka patterns, logging, observability, Docker, AWS fundamentals
+- **Backend & full-stack:** JavaScript/TypeScript, Node.js, Express, REST design, MongoDB, PostgreSQL, authentication & RBAC, WebSockets, Redis, Kafka patterns, logging, observability, Docker, AWS fun[...]
 - **Data science & ML:** Python, NumPy, Pandas, SQL, probability, visualization, scikit-learn pipelines, neural-network fundamentals, Flask APIs, LLM concepts, RAG-based teaching assistant project
 - **Core CS:** data structures & algorithms, OOP, DBMS, operating systems, computer networks
 - **Security foundations:** networking, the CIA triad, common web risks, secure authentication, threat & malware concepts, logs, basic detection thinking, introductory incident response
