@@ -63,10 +63,10 @@ Alongside that, I'm building a **security-aware way of thinking** — networking
 
 </div>
 
-**Currently Learning**
+
 
 <div align="center">
-
+<p align="center"> <strong></strong>Currently Learning</strong></p>
 <marquee behavior="scroll" direction="right" scrollamount="4">
 <img src="https://skillicons.dev/icons?i=opencv,py,aws,gcp&theme=dark" height="55"/>
 </marquee>
